@@ -11,6 +11,32 @@ Features:
 
 Note: Because this is a free source game development project which everyone can contribute, features are subject to change during the development cycle.
 
+## Game Basics
+
+### Game Control
+
+To operate your mecha, please input following key-command:
+1. "W\A\S\D" keys to move mecha.
+2. Holding "Shift" key to boost mecha's move.
+3. Holding "Space" key to lift up.
+
+Weapon System is waiting for further development.
+
+### Gameplay
+
+In the Project MMW, there are two main duties for players: Customize Mecha, and Attempt Missions.
+
+#### Customize Mecha
+Project MMW has many materials and resources for players to customize their Battle Mecha. The range of customization is widely from the basic features (speed, defense, weight, etc) to mecha functions (skills, technical equipments, and weapons).
+
+#### Attempt Missions
+After Mecha being customized, players can operate them to attempt missions. There are different types of missions for player to test their Mecha, or collecting materials for customization:
+
+Destory Mission - Players will be seperated into 2 teams, and the mission objective is to destroy all enemy Mecha. This mission can be attemped from 1v1, 2v2, 5v5, or customized number (in room game). 
+Tranport Mission - One team of players to escort an important object to target spot in a limited time, and another team need to pillage it. 
+Battlefield Mission - Players will be assigned into a specific alignment to against the another in a very big battle field. In this mission, there might be 50 players versus 50 players. If the players of one alignment get enough scores by defeating opponents Mecha, complete small mission, despoil facilities, etc. the alignment win.
+
+
 ## Mecha Customisation
 
 Mecha can be customised for your specific playstyles.
